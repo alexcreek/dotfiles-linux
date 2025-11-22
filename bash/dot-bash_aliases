@@ -16,3 +16,4 @@ function fp {
 # random
 alias ll='ls -lhG'
 alias ls='ls -G'
+alias ls='ls --color=auto'
